@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">memo-game</string>
+    <string name="title_activity_photo_list">PhotoListActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
